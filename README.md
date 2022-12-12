@@ -1,5 +1,5 @@
 # Projeto-Quiz-Marvel
-Meu primeiro programa complexo em python. Tema Quiz de perguntas e respostas, com perguntas com diferentes dificuldades, valendo pontos diferentes. Trabalho feito em grupo.
+Meu primeiro programa em python. Tema Quiz de perguntas e respostas, com perguntas com diferentes dificuldades, valendo pontos diferentes. Trabalho feito em grupo.
 
 Integrantes do grupo
   André Matteucci
